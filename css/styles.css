@@ -1,0 +1,6 @@
+@media all and (max-widht : 576px){
+    .slider-responsive{
+        height: 300px;
+        object-fit: cover;
+    }
+}
